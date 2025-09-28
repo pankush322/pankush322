@@ -1,4 +1,4 @@
-﻿# Hi, I am Pankush
+﻿# Hi, I am Pankaj
 
 I build lean, production-ready APIs and developer tools with Python, FastAPI, and a strong focus on automation. I enjoy turning validation-heavy workflows into simple services that teams can plug into immediately.
 
