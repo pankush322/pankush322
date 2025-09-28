@@ -10,13 +10,14 @@ I build lean, production-ready APIs and developer tools with Python, FastAPI, an
 ## Skills and tooling
 - Languages: Python, JavaScript/TypeScript, SQL
 - Frameworks: FastAPI, React, Next.js
+- App development: Progressive web apps, automation-friendly APIs
 - Platforms: Render, GitHub Actions, Docker
 - Testing & quality: Pytest, Postman/Newman, automated smoke tests
 
 ## Selected projects
-- [validation-api-fastapi](https://github.com/pankush322/validation-api-fastapi) – RapidAPI-ready service that validates common identifiers without any persistent storage
-- [qr-barcode-studio](https://github.com/pankush322/qr-barcode-studio) – Offline-first PWA for creating high-quality QR and barcode assets
-- [youtube-chapters-maker](https://github.com/pankush322/youtube-chapters-maker) – Tooling that speeds up chapter creation from long-form videos
+- [validation-api-fastapi](https://github.com/pankush322/validation-api-fastapi) - RapidAPI-ready service that validates common identifiers without any persistent storage
+- [qr-barcode-studio](https://github.com/pankush322/qr-barcode-studio) - Offline-first PWA for creating high-quality QR and barcode assets
+- [youtube-chapters-maker](https://github.com/pankush322/youtube-chapters-maker) - Tooling that speeds up chapter creation from long-form videos
 
 ## How to reach me
 - Open an issue or discussion on any of the repos above
